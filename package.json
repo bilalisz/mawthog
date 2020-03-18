@@ -1,0 +1,27 @@
+{
+  "name": "mawthog",
+  "version": "1.0.1",
+  "description": "Mawthog web api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khantech166/mawthog.git"
+  },
+  "keywords": [
+    "API",
+    "Mawthog"
+  ],
+  "author": "Bilal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khantech166/mawthog/issues"
+  },
+  "homepage": "https://github.com/khantech166/mawthog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
